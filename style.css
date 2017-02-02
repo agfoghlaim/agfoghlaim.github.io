@@ -1,73 +1,51 @@
-.move-right{
-	padding-left: 26.3%;
+a{
+	color: black;
 }
 
-.move-right2{
-	padding-left: 29%;
-}
-
-h1{
-	margin-left: 29%;
-}
-
-
-.myCols{
-	list-style-type: none;
-}
-
-h1, h2, h3, h4, h5, h6{
-	font-weight: bold;
-
-	
-}
-
-#work{
-	margin-left: 25%;
-}
-
- #workSmall{
- 	margin-left: 17%;
- }
-
- body{
- 	color: #383838;
-background-color: #f8f8f8;
- }
-
- .container{
+ .cv-container{
  	margin-top: 20px;
  	margin-bottom: 20px;
  	border: 1px solid black;
  	box-shadow: 10px 5px 5px #383838;
  	background-color: #fff;
- }
-
- a{
- 	text-decoration: none;
  	color: black;
+ 	padding: 50px;
  }
 
- a:hover{
- 	color: gray;
- 	font-weight: bold;
- 	text-decoration: none;
+ #pdf{
+color: white;
  }
 
-
- @media screen and (max-width: 880px) {
-    .dates {
-        display: none;
-    }
-
-    #work{
-	margin-left: 0;
+.myCols{
+	list-style-type: none;
 }
 
-.move-right, .move-right2, .col-md-3{
-	padding-left: 0;
+.frameworks{
+	text-align: left;
 }
 
-h1{
-	margin-left: 0;
+#workDates{
+padding-left: 19%;
 }
+
+#email{
+	padding-left: 0 !important;
 }
+
+.move-right2{
+	padding-left: 29.5%;
+}
+
+.move-right{
+	padding-left: 30%;
+}
+
+#work{
+	padding-left: 26%;
+}
+
+#cv-title{
+	padding-left: 30%;
+}
+
+

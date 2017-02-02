@@ -16,6 +16,15 @@ a{
 color: white;
  }
 
+ .cv-links{
+ 	color: grey;
+ 	font-weight: bold;
+ }
+
+ .cv-links:hover{
+ 	text-decoration: none;
+ }
+
 .myCols{
 	list-style-type: none;
 }

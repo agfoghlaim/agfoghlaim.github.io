@@ -24,6 +24,9 @@ a{
  #pdf{
 color: white;
  }
+ h5.no-margin-top{
+ 	margin-top:0px;
+ }
 
  .cv-links{
  	color: grey;
@@ -34,9 +37,17 @@ color: white;
  	text-decoration: none;
  }
 
+ h3.remove-margin{
+ 	margin-top:5px;
+ }
+
 .myCols{
 	list-style-type: none;
+	padding-left: 0px;
 }
+/*div.padding-left{
+	padding-left:40px;
+}*/
 
 .frameworks{
 	text-align: left;
